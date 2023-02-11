@@ -1,2 +1,2 @@
 # VarInstaller
-Very small Python library to make your program crossplatform installer.
+Very small Python autocode library to make your program crossplatform installer.
